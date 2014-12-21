@@ -2,57 +2,42 @@
 @-webkit-keyframes fade-in {
   0% {
     opacity: 0; }
-
   50% {
     opacity: 0; }
-
   100% {
     opacity: 1; } }
-
 @-moz-keyframes fade-in {
   0% {
     opacity: 0; }
-
   50% {
     opacity: 0; }
-
   100% {
     opacity: 1; } }
-
 @-ms-keyframes fade-in {
   0% {
     opacity: 0; }
-
   50% {
     opacity: 0; }
-
   100% {
     opacity: 1; } }
-
 @-o-keyframes fade-in {
   0% {
     opacity: 0; }
-
   50% {
     opacity: 0; }
-
   100% {
     opacity: 1; } }
-
 @keyframes fade-in {
   0% {
     opacity: 0; }
-
   50% {
     opacity: 0; }
-
   100% {
     opacity: 1; } }
-
 body {
   background: #fff;
   color: #000;
-  font-family: 'Merriweather', Georgia, helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   line-height: 1.55em;
   padding: 0;
@@ -67,7 +52,7 @@ strong, b {
 header {
   padding: 15px 0;
   line-height: 1.3em;
-  margin: 0 auto 20px;
+  margin: 0 auto 30px;
   background: #f7f8f9;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -106,7 +91,7 @@ header {
     *vertical-align: auto;
     overflow: hidden;
     border-radius: 50px;
-    border: 4px solid rgba(0, 0, 0, 0.05);
+    border: 4px solid #f7f8f9;
     -webkit-animation: fade-in 1.5s;
     -moz-animation: fade-in 1.5s;
     animation: fade-in 1.5s; }
@@ -184,13 +169,13 @@ a, .as-link {
   float: left; }
 
 .colour-1 {
-  color: #cc9944; }
+  color: #c94; }
 
 .colour-2 {
   color: #925; }
 
 .colour-3 {
-  color: #448844; }
+  color: #484; }
 
 hr {
   border: 0;
@@ -348,4 +333,21 @@ section.share-links {
 pre {
   padding-top: 8px !important;
   padding-bottom: 8px !important;
-/*  margin-left: -30px !important;*/ }
+  margin-left: -30px !important; }
+
+.my-twitter-follow-button {
+  padding: 4px 8px;
+  /*background-color: #6f8f9f;*/
+  background-color: #CC1427;
+  font-size: 13px;
+  color: white;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.my-twitter-follow-button:hover {
+  background-color: #D92134;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
