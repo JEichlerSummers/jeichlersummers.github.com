@@ -2,7 +2,7 @@
 layout: post
 title: YumYumYum 
 blurb: I realised I needed to test
-weight: 7
+weight: 3
 ---
 
 So it's a test
