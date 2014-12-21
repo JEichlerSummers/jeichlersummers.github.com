@@ -3,11 +3,11 @@ highlighter: pygments
 markdown:    rdiscount
 rdiscount:
   extensions: [smart]
-name: Robert Heaton
-description: 'Software engineer. One-track lover down a two-way lane'
-url: http://robertheaton.com
+name: Josh Summers
+description: 'A blog about learning while making things with good people. '
+url: http://joshsummers.co.uk
 auto: true
-feedburner_id: robertheaton
+feedburner_id: joshsummers
 future: true
 gems: 
   - jekyll-redirect-from
