@@ -240,7 +240,9 @@ ul.posts {
   section.blogpost img.half {
     width: 100%; } }
 .muted {
-  color: #777; }
+  color: #000;
+  font-size: 13px;
+  line-height: 20px; }
 
 .sec-head {
   display: none;
