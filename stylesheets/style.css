@@ -117,9 +117,10 @@ h1, h2, h3, h4, h5, h6 {
 
 a, .as-link {
   text-decoration: none;
-  color: #A88D22; }
+  color: #bababa;
+  border-bottom: 1px dotted #ccc; }
   a:hover, .as-link:hover {
-    color: #003355; }
+    color: #1D62F0; }
   a.big-button, .as-link.big-button {
     display: block;
     border-radius: 3px;
