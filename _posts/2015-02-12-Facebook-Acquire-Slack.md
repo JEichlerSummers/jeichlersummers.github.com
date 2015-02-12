@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will Facebook Acquire Slack? 
+blurb: Because I think they probably should.
 ---
 
 Not much to be said. But Facebook has done a very good job so far of taking the steps required to own communication. Although in the world of enterprise, Slack is killing it at communication. 

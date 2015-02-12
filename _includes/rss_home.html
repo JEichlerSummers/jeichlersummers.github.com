@@ -3,10 +3,12 @@
       {% if site.related_posts %}
         {% for post in site.related_posts, limit: 10 %}
           <div class="my-home-rss-link"><a href="{{ post.url }}">{{ post.title }}</a></div>
+          <small class="muted">{{ post.blurb }}</small>
         {% endfor %}
       {% else %}
         {% for post in site.posts, limit: 10 %}
           <div class="my-home-rss-link"><a href="{{ post.url }}">{{ post.title }}</a></div>
+          <small class="muted">{{ post.blurb }}</small>
         {% endfor %}
       {% endif %}
 </section>
