@@ -295,8 +295,8 @@ section.info {
   }
 
 .section-title {
-  font-size: 16px;
-  color: #676566; }
+  font-size: 20px;
+  color: #000; }
 
 section.navigation {
   *zoom: 1;
