@@ -1,3 +1,17 @@
+<section class='info'>
+      <h3 class="section-title">Recent Posts</h3>
+      {% if site.related_posts %}
+        {% for post in site.related_posts, limit: 4 %}
+          <div class="item"><a href="{{ post.url }}">{{ post.title }}</a></div>
+        {% endfor %}
+      {% else %}
+        {% for post in site.posts, limit: 4 %}
+          <div class="item"><a href="{{ post.url }}">{{ post.title }}</a></div>
+        {% endfor %}
+      {% endif %}
+</section>
+
+
 <section style="
 padding-bottom: 10">
 	<!-- Begin MailChimp Signup Form -->
