@@ -83,7 +83,7 @@ header {
   header .rob {
     position: absolute;
     left: -104px;
-    top: 10px;
+    top: 22px;
     display: inline-block;
     vertical-align: baseline;
     zoom: 1;
@@ -91,7 +91,6 @@ header {
     *vertical-align: auto;
     overflow: hidden;
     border-radius: 50px;
-    border: 4px solid rgba(0, 0, 0, 0.05);
     -webkit-animation: fade-in 1.5s;
     -moz-animation: fade-in 1.5s;
     animation: fade-in 1.5s; }
