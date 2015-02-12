@@ -2,13 +2,17 @@
       <h3 class="section-title">Recent Posts</h3>
       {% if site.related_posts %}
         {% for post in site.related_posts, limit: 10 %}
+        <div class="my-rss-div">
           <div class="my-home-rss-link"><a href="{{ post.url }}">{{ post.title }}</a></div>
-          <small class="muted">{{ post.blurb }}</small>
+          <small class="my-muted">{{ post.blurb }}</small>
+        </div>
         {% endfor %}
       {% else %}
         {% for post in site.posts, limit: 10 %}
+        <div class="my-rss-div">
           <div class="my-home-rss-link"><a href="{{ post.url }}">{{ post.title }}</a></div>
-          <small class="muted">{{ post.blurb }}</small>
+          <small class="my-muted">{{ post.blurb }}</small>
+        </div>
         {% endfor %}
       {% endif %}
 </section>
