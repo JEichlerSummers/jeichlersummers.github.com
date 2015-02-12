@@ -1,6 +1,8 @@
+---
 layout: post
 title: Will Facebook Acquire Slack? 
 hn: 7428469
+---
 
 <h3>Will Facebook Acquire Slack?</h3>
 
