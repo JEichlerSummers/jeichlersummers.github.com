@@ -337,7 +337,7 @@ pre {
 
 .my-twitter-follow-button {
   padding: 4px 8px;
-  background-color: #CC1427;
+  background-color: #1D62F0;
   font-size: 13px;
   color: white;
   -webkit-border-radius: 3px;
@@ -345,7 +345,7 @@ pre {
   border-radius: 3px; }
 
 .my-twitter-follow-button:hover {
-  background-color: #D92134;
+  background-color: #1D62F0;
   color: white; }
 
 /*# sourceMappingURL=style.css.map */
