@@ -239,11 +239,20 @@ ul.posts {
 
 @media (max-width: 580px) {
   section.blogpost img.half {
-    width: 100%; } }
+    width: 100%; }
+
+  header .rob {
+    display: block;
+    position: static;
+    margin-bottom: 10px;
+  }
+     }
 .muted {
   color: #000;
   font-size: 13px;
   line-height: 20px; }
+
+
 
 .sec-head {
   display: none;
