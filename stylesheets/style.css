@@ -273,7 +273,7 @@ section.info {
   section.info:not(:last-of-type) {
     margin-right: 1%; }
   section.info small {
-    color: #999; }
+    color: #000; }
   section.info .item * {
     padding-bottom: 2px;
     border-bottom: 1px dotted #ccc; }
@@ -367,6 +367,7 @@ pre {
 
 .my-home-rss-link a {
   color: #1D62F0;
+  border-bottom: none;
  }
 
 .my-home-rss-link a:hover {
@@ -376,7 +377,7 @@ pre {
 
 .my-muted {
   font-size: 13px;
-  line-height: 20px;
+  line-height: 2px;
   color: #000;
 }
 
