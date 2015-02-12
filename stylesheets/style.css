@@ -357,6 +357,10 @@ pre {
   background-color: #1D62F0;
   color: white; }
 
+.my-rss-div {
+  padding-bottom: 36px;
+}
+
 .my-home-rss-link {
   font-size: 20px;
 }
@@ -369,5 +373,13 @@ pre {
   border-bottom: 1px solid #1D62F0;
   color: #1D62F0;
 }
+
+.my-muted {
+  font-size: 13px;
+  line-height: 20px;
+  color: #000;
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
