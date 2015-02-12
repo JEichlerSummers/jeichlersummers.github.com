@@ -342,7 +342,9 @@ pre {
   color: white;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
-  border-radius: 3px; }
+  border-radius: 3px;
+  padding-top: 6px;
+   }
 
 .my-twitter-follow-button:hover {
   background-color: #1D62F0;
