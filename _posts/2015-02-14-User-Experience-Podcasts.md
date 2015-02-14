@@ -10,32 +10,44 @@ Podcasts are not music. Although both use headphones they are very different typ
 
 This is my full user journey as I decide to listen to a podcast:
 
-Unzip my backpack.
-<img src="/images/Podcast.png" style="max-width:100%;"> 
+Unzip my backpack.<br>
+<img src="/images/Podcast.png" style="max-width:50%;"> 
 
-Pull out headphones. 
+Pull out headphones.<br>
+<img src="/images/Podcast2.png" style="max-width:50%;">  
 
-Untangle headphones*.
+Untangle headphones*.<br>
+<img src="/images/Podcast3.png" style="max-width:50%;"> 
 
-Take phone from pocket.
+Take phone from pocket.<br>
+<img src="/images/Podcast4.png" style="max-width:50%;"> 
 
-Plug headphones in (could do a mirror photo) 
+Plug headphones into phone.<br>
+<img src="/images/Podcast5.png" style="max-width:50%;"> 
 
-Put headphones in ear.
+Put headphones in ear.<br>
+<img src="/images/Podcast6.png" style="max-width:50%;"> 
 
-Unlock phone. 
+Unlock phone.<br>
+<img src="/images/Podcast7.png" style="max-width:50%;"> 
 
-Open podcast app. 
+Open podcast app.<br>
+<img src="/images/Podcast8.png" style="max-width:50%;">  
 
-Click podcast**. 
+Click podcast**.<br>
+<img src="/images/Podcast9.png" style="max-width:50%;">  
 
-Click ‘Feed’**.
+Click ‘Feed’**.<br>
+<img src="/images/Podcast10.png" style="max-width:50%;"> 
 
-Download podcast**. 
+Download podcast**.<br>
+<img src="/images/Podcast11.png" style="max-width:50%;">  
 
-Click podcast to play**. 
+Click podcast to play**.<br>
+<img src="/images/Podcast12.png" style="max-width:50%;">  
 
-Receive intellectual content (thumbs up photo) in front of mobile.
+Receive intellectual content in my brain.<br>
+<img src="/images/Podcast13.png" style="max-width:50%;"> 
 
 *There’s probably a clever way to prevent this that I don’t know. 
 **I’m sure there are apps out there with a much better user experience. I am too lazy to find them and they haven’t found me yet. 
