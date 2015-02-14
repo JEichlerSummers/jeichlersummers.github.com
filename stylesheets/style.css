@@ -249,7 +249,7 @@ img.halfwidthdesktop {
       width: 50%; }
 
 @media (max-width: 580px) {
-  section.blogpost img.half {
+   .site section.blogpost img.half, .site section > p img.half {
     width: 100%; }
 
   header .rob {
@@ -258,7 +258,9 @@ img.halfwidthdesktop {
     margin-bottom: 10px;
   }
 
-     }
+}
+
+
 .muted {
   color: #000;
   font-size: 13px;
