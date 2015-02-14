@@ -49,7 +49,7 @@ Click podcast to play**.<br>
 Receive intellectual content in my brain.<br>
 <img src="/images/Podcast13.png" class="half"> 
 
-<br><br>
+<br>
 
 <h3>This is my full user journey when getting intellectual content from a purely visual medium.</h3>
 
