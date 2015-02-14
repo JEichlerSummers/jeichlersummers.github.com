@@ -11,43 +11,43 @@ Podcasts are not music. Although both use headphones they are very different typ
 <h3>This is my full user journey as I decide to listen to a podcast:</h3>
 
 Unzip my backpack.<br>
-<img src="/images/Podcast.png" style="max-width:50%;"> 
+<img src="/images/Podcast.png" class="half"> 
 
 Pull out headphones.<br>
-<img src="/images/Podcast2.png" style="max-width:50%;">  
+<img src="/images/Podcast2.png" class="half">  
 
 Untangle headphones*.<br>
-<img src="/images/Podcast3.png" style="max-width:50%;"> 
+<img src="/images/Podcast3.png" class="half"> 
 
 Take phone from pocket.<br>
-<img src="/images/Podcast4.png" style="max-width:50%;"> 
+<img src="/images/Podcast4.png" class="half"> 
 
 Plug headphones into phone.<br>
-<img src="/images/Podcast5.png" style="max-width:50%;"> 
+<img src="/images/Podcast5.png" class="half"> 
 
 Put headphones in ear.<br>
-<img src="/images/Podcast6.png" style="max-width:50%;"> 
+<img src="/images/Podcast6.png" class="half"> 
 
 Unlock phone.<br>
-<img src="/images/Podcast7.png" style="max-width:50%;"> 
+<img src="/images/Podcast7.png" class="half"> 
 
 Open podcast app.<br>
-<img src="/images/Podcast8.png" style="max-width:50%;">  
+<img src="/images/Podcast8.png" class="half">  
 
 Click podcast**.<br>
-<img src="/images/Podcast9.png" style="max-width:50%;">  
+<img src="/images/Podcast9.png" class="half">  
 
 Click ‘Feed’**.<br>
-<img src="/images/Podcast10.png" style="max-width:50%;"> 
+<img src="/images/Podcast10.png" class="half"> 
 
 Download podcast**.<br>
-<img src="/images/Podcast11.png" style="max-width:50%;">  
+<img src="/images/Podcast11.png" class="half">  
 
 Click podcast to play**.<br>
-<img src="/images/Podcast12.png" style="max-width:50%;">  
+<img src="/images/Podcast12.png" class="half">  
 
 Receive intellectual content in my brain.<br>
-<img src="/images/Podcast13.png" style="max-width:50%;"> 
+<img src="/images/Podcast13.png" class="half"> 
 
 *There’s probably a clever way to prevent this that I don’t know.<br>
 **I’m sure there are apps out there with a much better user experience. I am too lazy to find them and they haven’t found me yet. 
@@ -67,10 +67,10 @@ Click on Medium / other news apps.<br>
 <img src="/images/Podcast15.png" class="half"> 
 
 Begin to receive intellectual stimulus (browse article titles).<br>
-<img src="/images/Podcast16.png" style="max-width:50%;">
+<img src="/images/Podcast16.png" class="half">
 
 Click on title to read. Receive intellectual content.<br>
-<img src="/images/Podcast17.png" style="max-width:50%;"> 
+<img src="/images/Podcast17.png" class="half"> 
 
 Podcasts have 12 steps before my brain begins to get stimulated. Visual news has four. On top of this, those steps are not created equal; untangling my headphones is a lot more frustrating tapping my phone with my thumb. 
 
