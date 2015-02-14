@@ -11,7 +11,7 @@ Podcasts are not music. Although both use headphones they are very different typ
 This is my full user journey as I decide to listen to a podcast:
 
 Unzip my backpack.
-<img src="images/Podcast.png" style="max-width:100%;"> 
+<img src="/images/Podcast.png" style="max-width:100%;"> 
 
 Pull out headphones. 
 
