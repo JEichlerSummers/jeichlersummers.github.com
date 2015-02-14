@@ -55,16 +55,16 @@ Receive intellectual content in my brain.<br>
 <h3>This is my full user journey when getting intellectual content from a visual on-screen medium.</h3>
 
 Take phone from pocket.<br>
-<img src="/images/Podcast4.png" style="max-width:50%;"> 
+<img src="/images/Podcast4.png" class="halfwidthdesktop"> 
 
 Unlock phone.<br>
-<img src="/images/Podcast7.png" style="max-width:50%;"> 
+<img src="/images/Podcast7.png" class="halfwidthdesktop"> 
 
 Click on ‘News’ apps.<br>
-<img src="/images/Podcast14.png" style="max-width:50%;"> 
+<img src="/images/Podcast14.png" class="halfwidthdesktop"> 
 
 Click on Medium / other news apps.<br>
-<img src="/images/Podcast15.png" style="max-width:50%;"> 
+<img src="/images/Podcast15.png" class="halfwidthdesktop"> 
 
 Begin to receive intellectual stimulus (browse article titles).<br>
 <img src="/images/Podcast16.png" style="max-width:50%;">

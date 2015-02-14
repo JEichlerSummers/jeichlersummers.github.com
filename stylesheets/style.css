@@ -219,6 +219,10 @@ ul.posts {
   max-width: 800px;
   margin: auto; }
 
+img.halfwidthdesktop {
+  max-width: 50%;
+}
+
 .site section.blogpost, .site section > p {
   line-height: 1.8em; }
   .site section.blogpost blockquote, .site section > p blockquote {
@@ -252,6 +256,10 @@ ul.posts {
     display: block;
     position: static;
     margin-bottom: 10px;
+  }
+
+  img.halfwidthdesktop {
+    max-width: 100%;
   }
      }
 .muted {
