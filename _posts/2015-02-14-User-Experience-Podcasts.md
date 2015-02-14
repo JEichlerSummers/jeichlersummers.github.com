@@ -49,9 +49,6 @@ Click podcast to play**.<br>
 Receive intellectual content in my brain.<br>
 <img src="/images/Podcast13.png" class="half"> 
 
-*There’s probably a clever way to prevent this that I don’t know.<br>
-**I’m sure there are apps out there with a much better user experience. I am too lazy to find them and they haven’t found me yet. 
-
 <h3>This is my full user journey when getting intellectual content from a visual on-screen medium.</h3>
 
 Take phone from pocket.<br>
@@ -76,4 +73,7 @@ Podcasts have 12 steps before my brain begins to get stimulated. Visual news has
 
 I don’t know if it means the difference in quality has to be 3x, but I do think this means that the content quality barrier for podcast adoption is much higher than that of textual adoption. High quality is hard to achieve. 
 
-Random note: I was recently listented to my first podcast after being told I should listen to one called <a href=”http://gimletmedia.com/show/startup/” target=”_blank”>Startup</a>. It’s about a man starting a podcasting company. It’s great! You should listen to it too if you haven’t. [Full disclosure: no one at the ‘Startup’ podcast show has any idea who I am. I just like their work.]
+Random notes: I was recently listented to my first podcast after being told I should listen to one called <a href="http://gimletmedia.com/show/startup/" target="_blank">Startup</a>. It’s about a man starting a podcasting company. It’s great! You should listen to it too if you haven’t. [Full disclosure: no one at the ‘Startup’ podcast show has any idea who I am. I just like their work.]
+
+*There’s probably a clever way to prevent this that I don’t know.<br>
+**I’m sure there are apps out there with a much better user experience. I am too lazy to find them and they haven’t found me yet. 
