@@ -75,7 +75,7 @@ Podcasts have 12 steps before my brain begins to get stimulated. Visual news has
 
 I don’t know if it means the difference in quality has to be 3x, but I do think this means that the content quality barrier for podcast adoption is much higher than that of textual adoption. High quality is hard to achieve.
 
-Does this put a limit on the level of adoption that podcasts can achieve? If not on a person-to-person basis (most people have had some exposure to podcasts), then on the percentage of total media time they take up?
+Does this put a limit on the level of adoption that podcasts can achieve? If not on a person-to-person basis (most people have had some exposure to podcasts), then on the percentage of total media time they can take up?
 
 /End 
 
