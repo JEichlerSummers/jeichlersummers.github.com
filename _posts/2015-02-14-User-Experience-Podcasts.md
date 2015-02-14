@@ -8,7 +8,7 @@ The UX of Podcasts has a problem and that problem is headphones.
 
 Podcasts are not music. Although both use headphones they are very different types of content. Music is emotional content. Podcasts are intellectual content. There is no substitute I can do without headphones to get that musical feeling. There are many non-headphone substitutes for intellectual content (<a href="https://medium.com" target="_blank">Medium</a>, <a href="http://firstround.com/review" target="_blank">First Round Review</a>, <a href="https://news.ycombinator.com" target="_blank">Hacker News</a>, <a href="https://news.layervault.com" target="_blank">Designer News</a>, <a href="http://jumblestream.com/?utm_source=JoshSummers&utm_medium=Blog&utm_campaign=Podcast" target="_blank">the list goes on…</a>). 
 
-This is my full user journey as I decide to listen to a podcast:
+<h3>This is my full user journey as I decide to listen to a podcast:</h3>
 
 Unzip my backpack.<br>
 <img src="/images/Podcast.png" style="max-width:50%;"> 
@@ -49,22 +49,28 @@ Click podcast to play**.<br>
 Receive intellectual content in my brain.<br>
 <img src="/images/Podcast13.png" style="max-width:50%;"> 
 
-*There’s probably a clever way to prevent this that I don’t know. 
+*There’s probably a clever way to prevent this that I don’t know.<br>
 **I’m sure there are apps out there with a much better user experience. I am too lazy to find them and they haven’t found me yet. 
 
-This is my full user journey when getting intellectual content from a visual on-screen medium. 
+<h3>This is my full user journey when getting intellectual content from a visual on-screen medium.</h3>
 
-Take phone from pocket. 
+Take phone from pocket.<br>
+<img src="/images/Podcast4.png" style="max-width:50%;"> 
 
-Unlock phone. 
+Unlock phone.<br>
+<img src="/images/Podcast7.png" style="max-width:50%;"> 
 
-Click on ‘News’ apps. 
+Click on ‘News’ apps.<br>
+<img src="/images/Podcast14.png" style="max-width:50%;"> 
 
-Click on Medium / other news apps. 
+Click on Medium / other news apps.<br>
+<img src="/images/Podcast15.png" style="max-width:50%;"> 
 
-Begin to receive intellectual stimulus (browse article titles).
+Begin to receive intellectual stimulus (browse article titles).<br>
+<img src="/images/Podcast16.png" style="max-width:50%;">
 
-Click on title to read. Receive intellectual content. 
+Click on title to read. Receive intellectual content.<br>
+<img src="/images/Podcast17.png" style="max-width:50%;"> 
 
 Podcasts have 12 steps before my brain begins to get stimulated. Visual news has four. On top of this, those steps are not created equal; untangling my headphones is a lot more frustrating tapping my phone with my thumb. 
 
