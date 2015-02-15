@@ -107,10 +107,15 @@ footer {
   background: white;
   line-height: 2rem; }
   footer h3 {
-    font-size: 14px; }
+    font-size: 14px;
+    font-weight: normal; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   font-weight: normal; }
+
+h3 {
+  font-weight: bold;
+}
 
 .hr {
   text-align: center;
