@@ -38,4 +38,8 @@ It’s worth stating the obvious here, that the bigger your initial user base is
 
 <br>
 
+<span style="color:#FF2A68">I blog nearly every day - and when I do I Tweet about it:</span><a href="https://twitter.com/atJoshSummers" target="_blank">Follow Me Now</a>
+
+<br>
+
 *I made this 50-50 number up totally. I have no idea.
