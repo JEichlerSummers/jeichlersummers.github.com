@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The ‘Solve a Problem’ Growth Mechanic
-blurb: The more public and frequent, the better.
+blurb: The more public and frequent the problem, the better.
 ---
 
 
