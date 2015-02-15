@@ -24,7 +24,7 @@ When you break (particularly viral) growth down you end up with results which de
 
 These two things combine to make a product which can experience explosive growth.
 
-<a href="http://www.songkick.com/" target="_blank">Songkick</a> is another company that I think solves a problem particularly well; it lets you follow your favourite music artists to be told when they’re going to be playing live near you, so you can snap up tickets nice and early. 
+<a href="http://www.songkick.com/" target="_blank">Songkick</a> is another company that I think solves a problem particularly well. You follow your favourite music artists and get told when they’re going to be playing live near you - so you can snap up tickets nice and early. 
 
 If we break this problem down based on how public it is and how frequent it is, we can see that it doesn’t come close to the problem that Citymapper solves. 
 
