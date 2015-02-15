@@ -30,7 +30,7 @@ If we break this problem down based on how public it is and how frequent it is, 
 
 * It’s a so-so public problem: It might come up every now and then at the pub, but it’s not an issue that you’re forced to face in a public space every day. There’s probably a 50-50* chance that the problem comes up when you’re bored, alone, and exploring the internet. No one’s there to help. 
 
-* It’s not a very frequent problem: Unless you’re very fortunate, going to see live music is a relatively infrequent event in the Average Joe’s life (at least much less frequent that working out how to a friends birthday drinks in Walthamstow).
+* It’s not a very frequent problem: Unless you’re very fortunate, going to see live music is a relatively infrequent event in the Average Joe’s life (at least much less frequent that working out how to get to a friends birthday drinks in Walthamstow).
 
 Because of this Songkick hasn’t had the explosive growth that Citymapper has. (Or if it has, it hasn’t reached my circle of friends / colleagues yet.)
 
