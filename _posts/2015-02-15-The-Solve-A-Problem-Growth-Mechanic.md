@@ -38,7 +38,7 @@ It’s worth stating the obvious here, that the bigger your initial user base is
 
 <br>
 
-<span style="color:#FF2A68">I blog nearly every day - and when I do I tweet about it;<a href="https://twitter.com/atJoshSummers" target="_blank" style="color: #1D62F0; border-bottom: #1D62F0;"> follow me</a> to stay updated. </span>
+<span style="color:#FF5E3A">I blog nearly every day - and when I do I tweet about it;<a href="https://twitter.com/atJoshSummers" target="_blank" style="color: #1D62F0; border-bottom: #1D62F0;"> follow me</a> to stay updated. </span>
 
 <br>
 
