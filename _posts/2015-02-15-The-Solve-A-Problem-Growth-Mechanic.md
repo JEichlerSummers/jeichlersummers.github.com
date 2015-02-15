@@ -4,7 +4,7 @@ title: The ‘Solve a Problem’ Growth Mechanic
 blurb: The more public and frequent the problem, the better.
 ---
 
-TL;DR: The more public and frequent the problem your product solves, the faster your product will spread through word-of-mouth based viral growth. 
+TL;DR: The more public and frequent the problem your product solves, the faster your product will spread through word-of-mouth growth. 
 
 Today I met a friend of mine and she was experiencing a problem. She was trying to work out what busses to take to get from where we were then (The Emirates Stadium), to where she had to get to next (Bethnal Green). She had her reasonably old-school Android phone out and was fumbling her way through the Transport For London <a href="http://www.tfl.gov.uk/" target="_blank">website</a> - trying to use their ‘journey planner’ service. 
 
