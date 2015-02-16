@@ -412,6 +412,10 @@ pre {
   color: #000;
 }
 
+.mobile-twitter-div {
+  display: none;
+}
+
 
 
 /*# sourceMappingURL=style.css.map */
