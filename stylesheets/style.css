@@ -231,7 +231,7 @@ img.halfwidthdesktop {
 .site section.blogpost, .site section > p {
   line-height: 1.8em; }
   .site section.blogpost blockquote, .site section > p blockquote {
-    border-left: 3px solid #bababa;
+    border-left: 6px solid #1D62F0;
     padding: 0 0 0 15px;
     margin: 20px 0 20px 0;
     font-style: italic;
