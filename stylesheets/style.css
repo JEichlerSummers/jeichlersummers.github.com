@@ -351,8 +351,8 @@ section.navigation {
 section.share-links {
   text-align: left;
   border-bottom: 1px dotted #ddd;
-  padding: 20px 0 10px;
-  margin: 20px 0; }
+  padding: 10px 0 20px 0;
+  margin: 15px 0; }
   section.share-links .button {
     display: inline-block;
     vertical-align: baseline;
