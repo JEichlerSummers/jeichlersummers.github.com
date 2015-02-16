@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego’s Beautiful 1981 Ad Campaign. 
+title: Lego’s Beautiful 1981 Ad Campaign 
 blurb: The wisest advert I ever did see.
 ---
 
