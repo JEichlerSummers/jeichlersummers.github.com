@@ -411,9 +411,10 @@ pre {
   line-height: 2px;
   color: #000;
 }
-
-.mobile-twitter-div {
-  display: none;
+@media (max-width: 580px) {
+  .mobile-twitter-div {
+    display: none;
+  }
 }
 
 
