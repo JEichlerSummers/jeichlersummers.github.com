@@ -36,10 +36,4 @@ Because of this Songkick hasn’t had the explosive growth that Citymapper has. 
 
 It’s worth stating the obvious here, that the bigger your initial user base is, the bigger your numbers will grow. So if you are lucky enough to be solving any kind of frequent-public problem, work doubly hard to get the word out that you exist. It will pay dividends. 
 
-<br>
-
-<span style="color:#FF5E3A">I blog nearly every day - and when I do I tweet about it;<a href="https://twitter.com/atJoshSummers" target="_blank" style="color: #1D62F0; border-bottom: #1D62F0;"> follow me</a> to stay updated. </span>
-
-<br>
-
 *I made this 50-50 number up totally. I have no idea.
