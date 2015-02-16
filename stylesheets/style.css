@@ -231,19 +231,12 @@ img.halfwidthdesktop {
 .site section.blogpost, .site section > p {
   line-height: 1.8em; }
   .site section.blogpost blockquote, .site section > p blockquote {
-    border-left: 3px solid #f6f8f9;
+    border-left: 3px solid #bababa;
     padding: 0 0 0 15px;
-    margin: 20px 0 20px -18px;
+    margin: 20px 0 20px 0;
     font-style: italic;
-    color: #777879;
-    -webkit-transition: all, 0.3s;
-    -moz-transition: all, 0.3s;
-    -ms-transition: all, 0.3s;
-    -o-transition: all, 0.3s;
-    transition: all, 0.3s; }
-    .site section.blogpost blockquote:hover, .site section > p blockquote:hover {
-      color: #030507;
-      border-left-color: #e4e6e9; }
+    color: #1D62F0;
+  }
   .site section.blogpost li .CodeMirror, .site section > p li .CodeMirror {
     margin: 10px 0; }
   .site section.blogpost li p, .site section > p li p {
