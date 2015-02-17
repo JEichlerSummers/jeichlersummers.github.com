@@ -409,6 +409,23 @@ pre {
   }
 }
 
+.mobiletwitterbutton {
+  margin-top: 20px;
+  }
+
+.mobtwitterbuttonstyles {
+  display: inline-block;
+  font-size: 13px;
+  color: white;
+  margin-top: 6px;
+  background-color: #1D62F0;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 10px;
+  vertical-align: middle;
+}
+
 
 
 /*# sourceMappingURL=style.css.map */
