@@ -18,7 +18,7 @@ At about 9am I made it onto the front page of Hacker News. I wasn't even plannin
 
 <img src="/images/gafun.png">
 
-Buzz. Bzzz. My phone started vibrating. Flashes of blue birds filled my notifications screen. I was getting a lift to a meeting in Victoria. I could barely manage a sentence! Too engrossed in real time traffic statistics, tweets featuring my blog and a feeling of awesomeness to think straight.
+Buzz. Bzzz. My phone started vibrating. Flashes of blue birds filled my notifications screen. I was getting a lift to a meeting in Victoria and I could barely manage a sentence! Too engrossed in real time traffic statistics, tweets featuring my blog and a feeling of awesomeness to think straight.
 
 This continued pretty much all day. And if you haven’t experienced it, I can tell you that brains fricken love to feel loved! I’m pretty sure my dopamine engine is all worn out. 
 
