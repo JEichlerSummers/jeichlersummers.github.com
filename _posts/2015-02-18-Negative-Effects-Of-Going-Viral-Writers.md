@@ -24,7 +24,7 @@ This continued pretty much all day. And if you haven’t experienced it, I can t
 
 <h3>After the fun of the fair</h3>
 
-Writing today sucked though. It needed to be good! No - GREAT! People needed to love it. I wasn’t writing for me, but for the 21,000 people of yesterday - even though only 0.1% of them (the 25 that followed me on Twitter) might actually read what I had to write. I flicked through my list of proposed posts and began to edit a rough draft about business with asymmetric information. I couldn't write it. I couldn't write anything.
+Writing today sucked though. It needed to be good! No - GREAT! People needed to love it. I wasn’t writing for me, but for the 21,000 people of yesterday - even though only 0.1% of them (the 25 that followed me on Twitter) might actually read what I had to write. I flicked through my list of proposed posts and began to edit a rough draft of one on business with asymmetric information. I couldn't write it. I couldn't write anything.
 
 Just like a little kid, so proud of what he had achieved, so scared of not achieving it again - I was frozen. Writers block on day five! 
 
