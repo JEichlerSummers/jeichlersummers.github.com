@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writers Block 
+title: Vague Writer's Block 
 blurb: Side effects of going marginally viral.
 ---
 
