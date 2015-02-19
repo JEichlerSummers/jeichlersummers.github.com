@@ -10,7 +10,7 @@ Yesterday I wrote a <a href="http://joshsummers.co.uk/2015/02/16/Lego-1981-Beaut
 
 In the post I mentioned a <a href="http://www.bbc.co.uk/news/magazine-13128701" target="_blank">study</a> about parenting. That praising success over effort is a dangerous thing. It creates a fear of not living up to expectations and this fear of not being as good as last time <i>prevents</i> action, rather than signal of success encouraging it. A praising of effort is (generally*) the right approach. 
 
-This is an idea that makes a lot of sense, but the effect of the intense experience I had after writing it down, putting it on the web and having loads of people read it, taught me that parenting isn’t just for kids. Parenting is for us. Because sometimes the illogical part of our brain runs away with itself, getting in the way of the continued effort we need to put in to improve. 
+This is an idea that makes a lot of sense, but the effect of the intense experience I had after writing it down, putting it on the web and having loads of people read it, taught me that parenting isn’t just for kids. Parenting is for us adults too. Because sometimes the illogical part of our brain runs away with itself, getting in the way of the continued effort we need to put in to improve. 
 
 <h3>It was fricken awesome</h3>
 
