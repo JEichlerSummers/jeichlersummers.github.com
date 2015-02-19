@@ -8,7 +8,7 @@ blurb: Side effects of going marginally viral.
 
 Yesterday I wrote a <a href="http://joshsummers.co.uk/2015/02/16/Lego-1981-Beautiful-Advert/" target="_blank">post</a> that did really really fricken well. Incredibly well for a little person like me. I had over 21,000 visits to my website in 24 hours, over 150 mentions on twitter and the number of people that followed me on twitter close to doubled (to a mighty 52!). I don’t think anything I’ve ever done before has been so numerically successful in such a short amount of time. 
 
-In the post I mentioned a <a href="http://www.bbc.co.uk/news/magazine-13128701" target="_blank">study</a> about parenting. That praising success over effort is a dangerous thing. It creates a fear of not living up to expectations and this fear of not being as good as last time <i>prevents</i> action rather than enables it. A praising of effort is (generally) the right approach*. 
+In the post I mentioned a <a href="http://www.bbc.co.uk/news/magazine-13128701" target="_blank">study</a> about parenting. That praising success over effort is a dangerous thing. It creates a fear of not living up to expectations and this fear of not being as good as last time <i>prevents</i> action rather than enables it. A praising of effort is (generally*) the right approach. 
 
 This is an idea that makes a lot of sense, but the effect of the intense experience I had after writing it down, putting it on the web and having loads of people read it, taught me that parenting isn’t just for kids. Parenting is for us. Because sometimes the illogical part of our brain runs away with itself, getting in the way of the continued effort we need to put in to improve. 
 
@@ -36,4 +36,4 @@ My personal parenting skills were off. All those pretty numbers and feelings cau
 
 Says American Football coach <a href="http://www.amazon.co.uk/The-Score-Takes-Care-Itself/dp/1591843472" target="_blank">Bill Walsh</a>. The man is right.<br>
 
-*HN user <a href="https://news.ycombinator.com/user?id=duncanawoods" target="_blank">duncanawoods</a> made a very good point in the comments about the <a href="https://news.ycombinator.com/item?id=9061309">orignal HN thread</a>. 
+<small>*HN user <a href="https://news.ycombinator.com/user?id=duncanawoods" target="_blank">duncanawoods</a> made a very good point in the comments about the <a href="https://news.ycombinator.com/item?id=9061309">orignal HN thread</a>.</small> 
