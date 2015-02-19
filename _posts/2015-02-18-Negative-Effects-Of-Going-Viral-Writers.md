@@ -14,7 +14,7 @@ This is an idea that makes a lot of sense, but the effect of the intense experie
 
 <h3>It was fricken awesome</h3>
 
-At about 9am I made it onto the front page of Hacker News. I wasn't even planning on submitting the piece to HN. What would HN care about a 1981 Lego advert - <i>where is all the JavaScript?!?</i> And damn - it just kept going up and up and soon I was #1. I zoomed over to Google Analytics and watched the number of users on my site at that moment rise and rise - from 100 visitors to 300. Fuck! My brain and heart were in overdrive. 
+At about 9am I made it onto the front page of Hacker News. I wasn't even planning on submitting the piece to HN. What would HN care about a 1981 Lego advert - <i>where is all the JavaScript?!?</i> But damn - it just kept going up and up and soon I was #1. I zoomed over to Google Analytics and watched the number of users on my site at that moment rise and rise - from 100 visitors to 300. Fuck! My brain and heart were in overdrive. 
 
 <img src="/images/gafun.png">
 
