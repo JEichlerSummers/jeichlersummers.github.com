@@ -36,4 +36,4 @@ My personal parenting skills were off. All those pretty numbers and feelings cau
 
 Says American Football coach <a href="http://www.amazon.co.uk/The-Score-Takes-Care-Itself/dp/1591843472" target="_blank">Bill Walsh</a>. The man is right.<br>
 
-<small>*HN user <a href="https://news.ycombinator.com/user?id=duncanawoods" target="_blank">duncanawoods</a> made a very good point in the comments about the <a href="https://news.ycombinator.com/item?id=9061309">orignal HN thread</a>.</small> 
+<small>*HN user <a href="https://news.ycombinator.com/user?id=duncanawoods" target="_blank">duncanawoods</a> made a very good point in the comments about effort based parenting in the <a href="https://news.ycombinator.com/item?id=9061309">orignal HN thread</a>.</small> 
