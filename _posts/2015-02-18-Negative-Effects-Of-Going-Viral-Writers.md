@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writers Block 
+title: Writer's Block 
 blurb: Side effects of going marginally viral.
 ---
 
