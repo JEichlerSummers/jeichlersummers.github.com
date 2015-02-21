@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are we doing?
-blurb: How we use smartphones and headphones today is basically insane.
+blurb: How we use smartphones today is basically insane.
 ---
 
 <h3>How we use smartphones and headphones today is basically insane.</h3>
