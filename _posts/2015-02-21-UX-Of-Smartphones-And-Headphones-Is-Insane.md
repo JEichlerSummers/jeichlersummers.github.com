@@ -12,7 +12,7 @@ First you take out the headphones. Untangle them. Then you take your phone from 
 
 This is it. The standard user journey that we do again and again day after day. For more and more hours at a time. And it's insane. 
 
-<h3>Technolgoy is a part of us</h3>
+<h3>Technology is a part of us</h3>
 
 Our brains are evolving to view Google as an extension of themselves. The infinite database of knowledge and content and the instant connections are both here to stay. Every year we are spending more and more time on our mobiles. We cannot get enough.
 
@@ -24,13 +24,13 @@ Ultimately, this is not the fastest way for us to get what we want.
 
 <img src="/images/applekeyboard.png">
 
-Apple makes great computers. One of the things that they've done so well for so long is give you easy control of your envirnoment. No pressing 'Alt' or 'Fn' to change the brightness, the volume - any of the basic things that effect your senses. This is what reality needs too. 
+Apple makes great computers. One of the things that they've done so well for so long is give you easy control of your environment. No pressing 'Alt' or 'Fn' to change the brightness, the volume - any of the basic things that affect your senses. This is what reality needs too. 
 
 For many (myself included) life every day looks like this:
 
 <img src="/images/tubelife.jpg">
 
-Huddled together in a test tube of white light. The automatic anouncements shouting above our head. We try all we can to escape: look at the screen, buy headphones that fit even tighter to the innerds of our ears. But to be honest it's all a bit weak. Where are the buttons I press to control the brightness of the outside world? The volume? One day they will come. And with them so will all the content we now have to tap our way to. The best user expereince is when it's all right in our brains. 
+Huddled together in a test tube of white light. The automatic announcements shouting above our head. We try all we can to escape: look at the screen, buy headphones that fit even tighter to the innards of our ears. But to be honest it's all a bit weak. Where are the buttons I press to control the brightness of the outside world? The volume? One day they will come. And with them so will all the content we now have to tap our way to. The best user experience is when it's all right in our brains. 
 
 We are a wonderfully lazy species. Our desire to work less is probably one of the most powerful driving force behind our continued innovation. Right now we work too hard to get what we want. 
 
