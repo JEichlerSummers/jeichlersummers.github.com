@@ -4,7 +4,7 @@ title: What are we doing?
 blurb: How we use smartphones today is basically insane.
 ---
 
-<h3>How we use smartphones and headphones today is basically insane.</h3>
+<h3>How we use our smartphones today is basically insane.</h3>
 
 <img src="/images/tubeman.jpg">
 
