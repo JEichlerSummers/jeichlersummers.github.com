@@ -28,7 +28,7 @@ Apple makes great computers. One of the things that they've done so well for so 
 
 For many (myself included) life every day looks like this:
 
-<img src"/images/tubelife.jpg">
+<img src="/images/tubelife.jpg">
 
 Huddled together in a test tube of white light. The automatic anouncements shouting above our head. We try all we can to escape: look at the screen, buy headphones that fit even tighter to the innerds of our ears. But to be honest it's all a bit weak. Where are the buttons I press to control the brightness of the outside world? The volume? One day they will come. And with them so will all the content we now have to tap our way to. The best user expereince is when it's all right in our brains. 
 
