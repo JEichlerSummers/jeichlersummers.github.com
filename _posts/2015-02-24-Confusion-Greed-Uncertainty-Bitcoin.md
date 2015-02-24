@@ -72,7 +72,7 @@ Let’s compare the major price fluctuations of USD to Bitcon since 2009 with US
 
 ***
 
-It’s been pretty well established that we as humans suffer from FOMO (Fear Of Missing Out). This FOMO goes to another level entirely if the thing you’re missing out on is several million dollars (as opposed to your next door neighbours wine and cheese themed pool party). And that’s the situation we’re in with Bitcoin. 
+It’s been pretty well established that we as humans suffer from FOMO (Fear Of Missing Out). This FOMO reaches another level entirely if the thing you’re missing out on is several million dollars (as opposed to your next door neighbours wine and cheese themed pool party). And that’s the situation we’re in with Bitcoin. 
 
 How are you meant to pay for a pizza with a virtual currency that could <a href="http://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/" target="_blank">one day</a> be worth millions and millions of dollars? You can’t. 
 
