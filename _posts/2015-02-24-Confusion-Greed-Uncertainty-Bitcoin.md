@@ -11,7 +11,7 @@ Other tech heads think so too (ones much smarter than me!):
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is the graph of daily transaction volumes in USD that Mr Altman was linking to:
-<img src="/images/bitcoinvolume.png">
+<img src="/images/bitcoinvolume.png" style="border:1px solid #dedede;">
 
 As you can see, currently Bitcoin is not trending towards that critical level of use. 
 
@@ -33,11 +33,11 @@ I’ll use my(vaguely-technically-minded)self as an example - Back in November o
 
 I was / am an overconfident and overlazy investor so I didn’t do much research - but it looked like I had a lot of good feeling backing me up! Bitcoins price was rocketing. If I had some Bitcoin my bank balance would be rocketing too. I didn’t need much of a story to give me a reason to place my bet.
 
-<img src="/images/jannovbitcoin.png">
+<img src="/images/jannovbitcoin.png" style="border:1px solid #dedede;">
 <small>Bitcoin price 1st Jan 2013 - 26th Nov 2013</small>
 
 Oops...
-<img src="/images/novoctbitcoin.png"> 
+<img src="/images/novoctbitcoin.png" style="border:1px solid #dedede;"> 
 <small>Bitcoin price 26th Nov 2013 - Oct 31st 2014</small>
 
 The great thing about complex things is that your brain gets to tell itself lots of stories about them and not have a clear understanding of if those stories are right or wrong. When it comes to financial assets, brains really like to do this and they like do this because of a very human trait called greed.
@@ -63,7 +63,7 @@ Let’s compare the major price fluctuations of USD to Bitcon since 2009 with US
 
 
 <u>USD to GBP</u>
-<img src="/images/usdtogbp.png">
+<img src="/images/usdtogbp.png" style="border:1px solid #dedede;">
 That big jump you see is equal to a 44% increase over six months and five days - £0.5 / $ July 18th 2008 to £0.73 / $ Jan 23rd 2009.
 
 ***
