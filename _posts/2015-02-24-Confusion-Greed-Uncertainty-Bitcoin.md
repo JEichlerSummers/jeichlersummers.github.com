@@ -87,7 +87,7 @@ Note: Welcome to the world of my speculations...
 
 So to solve Bitcoin (or a different virtual currency) one of the main adjustments that needs to happen is that greed needs to be removed from the equation - and, as far as I understand it, that might be a realistic possibility.
 
-As I mentioned previously, virtual currencies do **not** have to have a cap on their quantity. The number Bitcoin’s might be limited by an asymptotic algorithm but after a recent talk with the very bright Jutta Steiner who works for the blockchain focused <a href="https://ethereum.org/"  target="_blank">Ethereum Project</a> I learnt that that can be manipulated by changing the algorithm the currency runs on. 
+As I mentioned previously, virtual currencies do <span style="font-weight:bold">not</span> have to have a cap on their quantity. The number Bitcoin’s might be limited by an asymptotic algorithm but after a recent talk with the very bright Jutta Steiner who works for the blockchain focused <a href="https://ethereum.org/"  target="_blank">Ethereum Project</a> I learnt that that can be manipulated by changing the algorithm the currency runs on. 
 
 It is possible to have an opening in a virtual currency’s algorithm which allows any number of coins to be killed or created at any given time (or something like that). If this opening was filled with with another algorithm - one that constantly kept the value of the virtual currency on a par with the USD (or some other major currency) - there would be no doubt about the future value of the currency. 
 
