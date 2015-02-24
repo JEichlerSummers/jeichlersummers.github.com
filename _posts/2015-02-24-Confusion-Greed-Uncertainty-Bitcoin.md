@@ -59,8 +59,8 @@ Let’s compare the major price fluctuations of USD to Bitcon since 2009 with US
 
 <u>USD to Bitcoin</u><br>
 
-* <span style="font-weight:bold">Jun 2010:</span> Bitcoin price rises 900% in five days ($0.008/Bt to $0.08/Bt)
-* <span style="font-weight:bold">8th Jul - 18th Nov 2011:</span> Price falls 93% in four months and ten days (and ~50% in one day) ($30/Bt to $2/Bt)
+* <span style="font-weight:bold">June 2010:</span> Bitcoin price rises 900% in five days ($0.008/Bt to $0.08/Bt)
+* <span style="font-weight:bold">8th July - 18th Nov 2011:</span> Price falls 93% in four months and ten days (and ~50% in one day) ($30/Bt to $2/Bt)
 * <span style="font-weight:bold">11th Mar - 11th Apr 2013:</span> Price rises 375% in one month ($48/Bt to $230/Bt)
 * <span style="font-weight:bold">4th Nov - 4th Dec 2013:</span> Price rises 410% in one month ($225/Bt to $1,147/Bt)
 * <span style="font-weight:bold">4th Dec - 7th Dec 2013:</span> Price falls 39% in three days ($1,147/Bt to $694/Bt)
@@ -68,7 +68,7 @@ Let’s compare the major price fluctuations of USD to Bitcon since 2009 with US
 
 <u>USD to GBP</u>
 <img src="/images/usdtogbp.png" style="border:1px solid #dedede; margin-bottom:30px;">
-That big jump you see is equal to a 44% increase over six months and five days - £0.5/$ July 18th 2008 to £0.73/$ Jan 23rd 2009.
+<span style="font-weight:bold">That big jump you see is equal to a 44% increase over six months and five days</span> (£0.5/$ July 18th 2008 to £0.73/$ Jan 23rd 2009).
 
 ***
 
