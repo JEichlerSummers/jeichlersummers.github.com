@@ -29,7 +29,7 @@ But yet, we’re not getting an increase in virtual currency adoption, and I bel
 
 <h3>Confusion</h3>
 
-Virtual currencies are rather opaque things. They are very complex, highly technical and tricky for even a vaguely technically-minded individual to grasp solidly. This high level of opacity makes them highly 
+Virtual currencies are opaque things. They're very complex, highly technical and tricky for even a vaguely technically-minded individual to grasp solidly. The higher the level of opacity in a system, the more susceptible it is to illogical decisions motivated by greed.
 
 I’ll use my(vaguely-technically-minded)self as an example - Back in November of 2013 when Bitcoin was flying off the chart I bought myself half a Bitcoin for ~£350.00. My investment thesis was based on my inability to understand the way that real world money is able to increasingly leverage itself. We don’t actually have the money that we think we have in the bank. It has been loaned out to people (who believe they have it in their bank accounts - when they don’t either). This is why banks die when there is a ‘run’ on them. Bitcoin has it’s growth growth controlled by an algorithm <span style="font-weight:bold">(I think!)</span>, and I had heard vague notions that this algorithm was asymptotic <span style="font-weight:bold">(perhaps!)</span>. <span style="color:#1D62F0">[This is in fact <span style="font-weight:bold">not</span> true for all virtual currencies - but more on this later.]</span> A solid hedge against the global financial system collapsing I thought! 
 
