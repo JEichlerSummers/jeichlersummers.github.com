@@ -19,9 +19,9 @@ As you can see, currently Bitcoin is not trending towards that critical level of
 
 Although - there are good reasons why it should. Virtual currencies have highly tangible benefits over real world currencies:
 
-*They enable a borderless monetary system with no intermediaries. This means an international transaction that currently takes several days to complete could be done in minutes.
-*They dramatically cut the cost of moving funds between two parties to very close to zero. Currently the fee charged to a retailer for a £100 transaction is anywhere between £0.08 (debit card) to £1.60 (high rewards credit card).
-*They allow large sums of money to be moved extremely quickly (15 min) with (basically) full certainty that it will arrive where it’s meant to go. In terms of substantial scale capital management (we’re talking the world of investment banking here) that’s a very big deal.
+* They enable a borderless monetary system with no intermediaries. This means an international transaction that currently takes several days to complete could be done in minutes.
+* They dramatically cut the cost of moving funds between two parties to very close to zero. Currently the fee charged to a retailer for a £100 transaction is anywhere between £0.08 (debit card) to £1.60 (high rewards credit card).
+* They allow large sums of money to be moved extremely quickly (15 min) with (basically) full certainty that it will arrive where it’s meant to go. In terms of substantial scale capital management (we’re talking the world of investment banking here) that’s a very big deal.
 
 <small>Links to sources: <a href="http://www.mobilepaymentstoday.com/articles/futureofpayments-bitcoin-has-advantages-over-traditional-banking-services/" target="_blank">Mobile Payments Today</a>, <a href="http://www.thisismoney.co.uk/money/cardsloans/article-2363930/Why-pay-use-credit-debit-card.html" target="_blank">This Is Money</a></small>
 
