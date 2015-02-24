@@ -80,7 +80,7 @@ How do you know if you should buy some <a href="http://www.thestage.co.uk/news/2
 
 If you’re a business, how are you meant to make any sort of solid financial projections with a currency that’s value can rise 400% in a month, and fall 40% in three days?  It's impossible.
 
-In it’s current state, greed breaks Bitcoin as a transactional currency and I believe that’s one of the main reasons why we’re not moving closer to critical adoption. 
+<span style="font-weight:bold">In it’s current state, greed breaks Bitcoin as a transactional currency and I believe that’s one of the main reasons why we’re not moving towards critical adoption.</span> 
 
 <h3 style="color:#1D62F0">Perhaps, Perhaps</h3>
 
