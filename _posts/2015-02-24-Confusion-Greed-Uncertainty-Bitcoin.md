@@ -51,7 +51,7 @@ The great thing about complex systems is that your brain gets to tell itself lot
 
 I am greedy. I didn’t buy Bitcoin because I wanted to buy drugs online, a <a href="http://www.dell.com/learn/us/en/uscorp1/campaigns/bitcoin-marketing" target="_blank">Dell computer</a> or anything for that matter, I bought it because I wanted to hold it and make money - and as we established above, the complex nature of Bitcoin means I'm easily able to tell myself a hypothesis of why this is going to happen. 
 
-The problem is that greed doesn’t mix very well with transactional currencies that are not widely used or based in some sort of physical reality. It doesn’t mix very well because it makes the future very uncertain. 
+The problem is that greed doesn’t mix very well with transactional currencies that are not widely used or based in some sort of physical reality. It doesn’t mix well because it makes the future very uncertain. 
 
 Dollars (or fridges for that matter) don’t suffer from wild price fluctuations. A quick theoretical example tells us why: we all have a few dollar bills (and at least one fridge) lying around the house - so it’s very unlikely that tomorrow we will wake up and be able to swap one of them for a car. This is not quite the same for virtual currencies - at least not with Bitcoin. 
 
