@@ -6,7 +6,7 @@ blurb: How a human trait is in the way of a transactional currency.
 
 To bring any virtual currency into a space where we know we’re not a gang of tech folk telling a story to ourselves it needs to reach critical adoption.  
 
-Other tech heads think so too (ones much smarter than me!):
+Other tech heads think so too - ones much smarter than me! -
 <div style="margin-top: -18px; margin-bottom: 25px;">
 <blockquote class="twitter-tweet" lang="en"><p>this is IMO the key graph to watch for Bitcoin adoption: <a href="https://t.co/8LVBSbrwbe">https://t.co/8LVBSbrwbe</a> (and yeah, sidechains aren&#39;t fully counted etc etc)</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/569948188829831169">February 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,21 +15,21 @@ Other tech heads think so too (ones much smarter than me!):
 This is the graph of daily transaction volumes in USD that Mr Altman was linking to:
 <img src="/images/bitcoinvolume.png" style="border:1px solid #dedede;">
 
-As you can see, currently Bitcoin is not trending towards that critical level of use. 
+As you can see, Bitcoin is not trending towards that critical level of use. 
 
-Although - there are good reasons why it should. Virtual currencies have highly tangible benefits over real world currencies:
+Although, there are good reasons why it should. Virtual currencies have highly tangible benefits over real world currencies:
 
 * They enable a borderless monetary system with no intermediaries. This means an international transaction that currently takes several days to complete could be done in minutes.
-* They dramatically cut the cost of moving funds between two parties to very close to zero. Currently the fee charged to a retailer for a £100 transaction is anywhere between £0.08 (debit card) to £1.60 (high rewards credit card).
-* They allow large sums of money to be moved extremely quickly (15 min) with (basically) full certainty that it will arrive where it’s meant to go. In terms of substantial scale capital management (we’re talking the world of investment banking here) that’s a very big deal.
+* They cut the cost of moving funds between two parties to ~zero. Currently the fee charged to a retailer for a £100 transaction is between £0.08 (debit card) to £1.60 (high rewards credit card).
+* They allow very large sums of money to be moved extremely quickly (15 min) with ~full certainty that it will arrive where it is meant to go. In terms of substantial scale capital management (we’re talking the world of investment banking here) that’s a big deal.
 
 <small>Links to sources: <a href="http://www.mobilepaymentstoday.com/articles/futureofpayments-bitcoin-has-advantages-over-traditional-banking-services/" target="_blank">Mobile Payments Today</a>, <a href="http://www.thisismoney.co.uk/money/cardsloans/article-2363930/Why-pay-use-credit-debit-card.html" target="_blank">This Is Money</a></small>
 
-But yet we’re not getting an increase in virtual currency adoption - and I believe confusion and greed are the reasons why.
+But yet, we’re not getting an increase in virtual currency adoption, and I believe <span style="font-weight:bold">confusion</span> and <span style="font-weight:bold">greed</span> are the reasons why.
 
 <h3>Confusion</h3>
 
-Virtual currencies are very mysterious things. They are very complex, highly technical and rather tricky for even a vaguely technically minded individual to grasp solidly. 
+Virtual currencies are rather opaque things. They are very complex, highly technical and tricky for even a vaguely technically-minded individual to grasp solidly. This high level of opacity makes them highly 
 
 I’ll use my(vaguely-technically-minded)self as an example - Back in November of 2013 when Bitcoin was flying off the chart I bought myself half a Bitcoin for ~£350.00. My investment thesis was based on my inability to understand the way that real world money is able to increasingly leverage itself. We don’t actually have the money that we think we have in the bank. It has been loaned out to people (who believe they have it in their bank accounts - when they don’t either). This is why banks die when there is a ‘run’ on them. Bitcoin has it’s growth growth controlled by an algorithm <span style="font-weight:bold">(I think!)</span>, and I had heard vague notions that this algorithm was asymptotic <span style="font-weight:bold">(perhaps!)</span>. <span style="color:#1D62F0">[This is in fact <span style="font-weight:bold">not</span> true for all virtual currencies - but more on this later.]</span> A solid hedge against the global financial system collapsing I thought! 
 
