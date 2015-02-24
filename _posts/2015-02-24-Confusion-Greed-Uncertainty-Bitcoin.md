@@ -92,7 +92,7 @@ As I mentioned previously, virtual currencies do <span style="font-weight:bold">
 
 It is possible to have an opening in the algorithm which allows any number of coins to be killed or created at any given time (...or something like that). If this opening were filled with with another algorithm - one that constantly kept the value of the virtual currency on a par with the USD (or some other major currency) - there would be no doubt about the future value of the currency. 
 
-I don’t know if this is actually possible, but if it is, it would remove greed from the equation and let a virtual currency become a transactional currency - enabling us to make use of the tangible benefits we all would benefit from.
+I don’t know if this is actually possible, but if it is, it would remove greed from the equation and let a virtual currency become a transactional currency - enabling us to make use of the tangible benefits we would all benefit from.
 
 I’m curious, so if you know the answer to this, please let me know! Tweet <a href="http://deeplink.me/twitter.com/joshsummersblog">@JoshSummersBlog</a>. [Link will open in Twitter app if on mobile.]
 
