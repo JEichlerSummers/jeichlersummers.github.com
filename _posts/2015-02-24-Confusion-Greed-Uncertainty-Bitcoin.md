@@ -43,7 +43,7 @@ Oops...
 <img src="/images/novoctbitcoin.png" style="border:1px solid #dedede;"> 
 <small style="color: #9a9a9a">Bitcoin price 26th Nov 2013 - Oct 31st 2014</small>
 
-The great thing about complex systems is that your brain gets to tell itself lots of stories about them and not have a clear understanding of their plausibility. When it comes to financial assets, brains really like to do this and they like do this because of a very human trait called greed.
+The great thing about complex systems is that your brain gets to tell itself lots of stories about them and not have a clear understanding of their plausibility. When it comes to financial assets, our hopeful homosapien brains really like to do this because of a very human trait called greed.
 
 <small style="color: #9a9a9a; line-height: 1.5em;">At the end of this article you can read how further Bitcoin complexity ended my financial adventure in an even more painful way than the market would have.</small>
 
