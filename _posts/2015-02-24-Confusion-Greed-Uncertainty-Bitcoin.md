@@ -7,7 +7,7 @@ blurb: How a human trait is in the way of a transactional currency.
 To bring any virtual currency into a space where we know we’re not a gang of tech folk telling a story to ourselves it needs to reach critical adoption.  
 
 Other tech heads think so too (ones much smarter than me!):
-<div style="margin-top: -18px; margin-bottom: 10px;">
+<div style="margin-top: -18px; margin-bottom: 25px;">
 <blockquote class="twitter-tweet" lang="en"><p>this is IMO the key graph to watch for Bitcoin adoption: <a href="https://t.co/8LVBSbrwbe">https://t.co/8LVBSbrwbe</a> (and yeah, sidechains aren&#39;t fully counted etc etc)</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/569948188829831169">February 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
