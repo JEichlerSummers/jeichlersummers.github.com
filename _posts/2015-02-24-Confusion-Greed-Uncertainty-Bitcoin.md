@@ -59,7 +59,7 @@ Let’s compare the major price fluctuations of USD to Bitcon since 2009 with US
 
 <u>USD to Bitcoin</u><br>
 
-* June 2010 - Bitcoin price rises 900% in five days ($0.008/Bt to $0.08/Bt)
+* <span style="font-weight:bold">June 2010</span> - Bitcoin price rises 900% in five days ($0.008/Bt to $0.08/Bt)
 * 8th July 2011 - 18th Nov 2011 - Bitcoin price falls 93% in four months and ten days (and ~50% in one day) ($30/Bt to $2/Bt)
 * 11th March 2013 - 11th April 2013 -  Bitcoin price rises 375% in one month ($48/Bt to $230/Bt)
 * 4th November 2013 - 4th December 2013 - Bitcoin price rises 410% in one month ($225/Bt to $1,147/Bt)
