@@ -45,7 +45,7 @@ Oops...
 
 The great thing about complex systems is that your brain gets to tell itself lots of stories about them and not have a clear understanding of their plausibility. When it comes to financial assets, brains really like to do this and they like do this because of a very human trait called greed.
 
-<small style="color: #9a9a9a; line-height: 1.4em;">At the end of this article you can read how further Bitcoin complexity ended my financial adventure in an even more painful way than the market would have.</small>
+<small style="color: #9a9a9a; line-height: 1.5em;">At the end of this article you can read how further Bitcoin complexity ended my financial adventure in an even more painful way than the market would have.</small>
 
 <h3>Greed</h3>
 
@@ -96,7 +96,7 @@ I am not the most technically minded man about town, so I don’t know if this i
 
 I’m curious, so if you know the answer to this, please let me know! Tweet <a href="http://deeplink.me/twitter.com/joshsummersblog">@JoshSummersBlog</a>. [Link will open in Twitter app if on mobile.]
 
-<small style="color: #9a9a9a; line-height: 1.4em;">
+<small style="color: #9a9a9a; line-height: 1.5em;">
 <u>The sad end to my Bitcoin adventure</u><br>
 Not only was my bet wrong, but my understanding of virtual wallets was wrong too! After my hard drive crashed and the man at Apple told me he would have to wipe it - I quickly learnt that I had lost my little bit of Bitcoin. Fingers crossed the global financial system stays strong.
 </small>
