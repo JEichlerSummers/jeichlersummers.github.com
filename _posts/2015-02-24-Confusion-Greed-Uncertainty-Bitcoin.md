@@ -76,9 +76,9 @@ It’s been pretty well established that we as humans suffer from FOMO (Fear Of 
 
 How are you meant to pay for a pizza with a virtual currency that could <a href="http://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/" target="_blank">one day</a> be worth millions and millions of dollars? You can’t. 
 
-How do you know if you should buy something with the virtual currency you own if a guy who bought his Bitcoins for $27 was later able to trade a fifth of them in for a <a href="http://www.theguardian.com/technology/2013/oct/29/bitcoin-forgotten-currency-norway-oslo-home" target="_blank">plush flat</a> in Oslo? You can’t. 
+How do you know if you should buy some <a href="http://www.thestage.co.uk/news/2014/ticket-agency-london-theatre-direct-use-bitcoins/" target="_blank">theater tickets</a> with the virtual currency you own if a guy who bought his Bitcoins for $27 later traded a fifth of them in for a <a href="http://www.theguardian.com/technology/2013/oct/29/bitcoin-forgotten-currency-norway-oslo-home" target="_blank">plush flat</a> in Oslo? You don't. 
 
-If you’re a business, how are you meant to make any sort of solid financial projections with a currency that’s value can rise over 400% in a month, and fall over 40% in three days? You can’t.
+If you’re a business, how are you meant to make any sort of solid financial projections with a currency that’s value can rise over 400% in a month, and fall over 40% in three days?  It's impossible.
 
 In it’s current state, greed breaks Bitcoin as a transactional currency and I believe that’s one of the main reasons why we’re not moving closer to critical adoption. 
 
