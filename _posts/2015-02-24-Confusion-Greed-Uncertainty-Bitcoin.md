@@ -23,7 +23,7 @@ Although, there are good reasons why it should. Virtual currencies have highly t
 * They cut the cost of moving funds between two parties to ~zero. Currently the fee charged to a retailer for a £100 transaction is between £0.08 (debit card) to £1.60 (high rewards credit card).
 * They allow very large sums of money to be moved extremely quickly (15 min) with ~full certainty that it will arrive where it is meant to go. In terms of substantial scale capital management (we’re talking the world of investment banking here) that’s a big deal.
 
-<small>Links to sources: <a href="http://www.mobilepaymentstoday.com/articles/futureofpayments-bitcoin-has-advantages-over-traditional-banking-services/" target="_blank">Mobile Payments Today</a>, <a href="http://www.thisismoney.co.uk/money/cardsloans/article-2363930/Why-pay-use-credit-debit-card.html" target="_blank">This Is Money</a></small>
+<small style="color: #9a9a9a">Links to sources: <a href="http://www.mobilepaymentstoday.com/articles/futureofpayments-bitcoin-has-advantages-over-traditional-banking-services/" target="_blank">Mobile Payments Today</a>, <a href="http://www.thisismoney.co.uk/money/cardsloans/article-2363930/Why-pay-use-credit-debit-card.html" target="_blank">This Is Money</a></small>
 
 But yet, we’re not getting an increase in virtual currency adoption, and I believe <span style="font-weight:bold">confusion</span> and <span style="font-weight:bold">greed</span> are the reasons why.
 
@@ -36,16 +36,16 @@ I’ll use my(vaguely-technically-minded)self as an example. Back in November of
 I was / am an overconfident and over-lazy investor, so I didn’t do much research. But I had a lot of good feeling backing me up! Bitcoins price was rocketing. If I had some Bitcoin my bank balance would be rocketing too. <span style="font-weight:bold">I didn’t need much of a story to give myself reason to place the bet.</span>
 
 <img src="/images/jannovbitcoin.png" style="border:1px solid #dedede;">
-<small>Bitcoin price 1st Jan 2013 - 26th Nov 2013</small>
+<small style="color: #9a9a9a">Bitcoin price 1st Jan 2013 - 26th Nov 2013</small>
 
 Oops...
 
 <img src="/images/novoctbitcoin.png" style="border:1px solid #dedede;"> 
-<small>Bitcoin price 26th Nov 2013 - Oct 31st 2014</small>
+<small style="color: #9a9a9a">Bitcoin price 26th Nov 2013 - Oct 31st 2014</small>
 
 The great thing about complex things is that your brain gets to tell itself lots of stories about them and not have a clear understanding of if those stories are right or wrong. When it comes to financial assets, brains really like to do this and they like do this because of a very human trait called greed.
 
-<small>At the end of this article you can read how further Bitcoin complexity ended my financial adventure in an even more painful way than the market would have.</small>
+<small style="color: #9a9a9a">At the end of this article you can read how further Bitcoin complexity ended my financial adventure in an even more painful way than the market would have.</small>
 
 <h3>Greed</h3>
 
@@ -96,7 +96,7 @@ I am not the most technically minded man about town, so I don’t know if this i
 
 I’m curious, so if you know the answer to this, please let me know! Tweet <a href="http://deeplink.me/twitter.com/joshsummersblog">@JoshSummersBlog</a>. [Link will open in Twitter app if on mobile.]
 
-<small>
+<small style="color: #9a9a9a">
 <u>The sad end to my Bitcoin adventure</u><br>
 Not only was my bet wrong, but my understanding of virtual wallets was wrong too! After my hard drive crashed and the man at Apple told me he would have to wipe it - I quickly learnt that I had lost my little bit of Bitcoin. Fingers crossed the global financial system stays strong.
 </small>
