@@ -53,7 +53,7 @@ I am greedy. I didn’t buy Bitcoin because I wanted to buy drugs online, a <a h
 
 The problem is that greed doesn’t mix very well with transactional currencies that are not widely used or based in some sort of physical reality. It doesn’t mix well because it makes the future very uncertain. 
 
-Dollars (or fridges for that matter) don’t suffer from wild price fluctuations. A quick theoretical example tells us why: we all have a few dollar bills (and at least one fridge) lying around the house - so it’s very unlikely that tomorrow we will wake up and be able to swap one of them for a car. This is not quite the same for virtual currencies - at least not with Bitcoin. 
+Dollars (or fridges for that matter) don’t suffer from wild price fluctuations. A quick theoretical example tells us one of the reasons why: we all have a few dollar bills (and at least one fridge) lying around the house - so it’s very unlikely that tomorrow we will wake up and be able to swap one of them for a car. The fact that we're pretty sure this will not happen removes a great deal of greed from the system; you buy a coffee with your dollars (and your spare room isn't packed with fridges). This is not quite the same for virtual currencies - at least not with Bitcoin. 
 
 Let’s compare the major price fluctuations of USD to Bitcon since 2009 with USD to GBP since the year 2000 (as far as Google Finance will let me go back).
 
