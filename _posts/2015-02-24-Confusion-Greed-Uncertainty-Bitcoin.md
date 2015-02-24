@@ -39,6 +39,7 @@ I was / am an overconfident and over-lazy investor, so I didn’t do much resear
 <small>Bitcoin price 1st Jan 2013 - 26th Nov 2013</small>
 
 Oops...
+
 <img src="/images/novoctbitcoin.png" style="border:1px solid #dedede;"> 
 <small>Bitcoin price 26th Nov 2013 - Oct 31st 2014</small>
 
