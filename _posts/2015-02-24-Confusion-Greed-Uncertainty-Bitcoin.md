@@ -56,7 +56,7 @@ Dollars (or fridges for that matter) don’t suffer from wild price fluctuations
 
 Let’s compare the major price fluctuations of USD to Bitcon since 2009 with USD to GBP since the year 2000 (as far as Google Finance will let me go back).
 
-<u>USD to Bitcoin</u>
+<u>USD to Bitcoin</u><br>
 * June 2010 - Bitcoin price rises 900% in five days ($0.008 / Bt to $0.08 / Bt)
 * 8th July 2011 - 18th Nov 2011 - Bitcoin price falls 93% in four months and ten days (and ~50% in one day) ($30 / Bt to $2 / Bt)
 * 11th March 2013 - 11th April 2013 -  Bitcoin price rises 375% in one month ($48 / Bt to $230 / Bt)
