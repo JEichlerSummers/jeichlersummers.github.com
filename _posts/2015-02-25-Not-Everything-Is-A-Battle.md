@@ -4,7 +4,7 @@ title: Not everything is a battle? Or is it?
 blurb: Confusion after looking at Seth Godin's blog.
 ---
 
-<img src="/images/battle.png" class="half imground">
+<img src="/images/battle2.png" class="half imground">
 
 Something I’m confused about today.
 
