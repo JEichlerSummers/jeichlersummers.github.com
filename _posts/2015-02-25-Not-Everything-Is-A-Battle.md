@@ -4,6 +4,8 @@ title: Not everything is a battle? Or is it?
 blurb: Confusion after looking at Seth Godin's blog.
 ---
 
+<img src="/images/battle.png" class="half imground">
+
 Something I’m confused about today.
 
 I was reading over Seth Godin's <a href="http://sethgodin.typepad.com/" target="_blank">blog</a> last night and the way he writes is very different to the way I do. I’m not talking about his (superior) writing style, but the attitude that lies underneath his words. 
