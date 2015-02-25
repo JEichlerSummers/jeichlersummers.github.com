@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not everything is a battle? Or is it?
+title: Not everything is a battle. Or is it?
 blurb: Confusion after looking at Seth Godin's blog.
 ---
 
