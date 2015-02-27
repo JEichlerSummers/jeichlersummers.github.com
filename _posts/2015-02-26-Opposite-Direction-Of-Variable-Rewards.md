@@ -4,6 +4,8 @@ title: Moving in the opposite direction of variable rewards
 blurb: A brief pause to reflect on the importance of pausing.
 ---
 
+<img src="/images/variablerewards.png" class="imground half">
+
 Sometimes I find it harder to turn my computer off and go to sleep than I do to keep flicking through Hacker News, Designer News, Reddit and Twitter. Not experiencing stimulation requires effort. 
 
 It appears I’m not alone; 36% of Americans fall asleep with their laptops next to them in bed; 75% of people under 25 do the same; 47% of Americans watch TV in bed at night; and 25% of Americans fall asleep with it on at least three nights a week. I don’t mean to pick on America (those were just the only statistics I could find). I’m confident the statistics are similar in the UK too. 
