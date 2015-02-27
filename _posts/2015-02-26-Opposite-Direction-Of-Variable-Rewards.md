@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Moving in the opposite direction of variable rewards. 
+title: Moving in the opposite direction of variable rewards
 blurb: A brief pause to reflect on the importance of pausing.
 ---
-
-Moving in the opposite direction of variable rewards. 
 
 Sometimes I find it harder to turn my computer off and go to sleep than I do to keep flicking through Hacker News, Designer News, Reddit and Twitter. Not experiencing stimulation requires effort. 
 
