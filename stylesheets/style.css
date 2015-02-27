@@ -290,7 +290,7 @@ section.info {
   *vertical-align: auto;
   vertical-align: top; }
   section.info a {
-    line-height: 2.4em; }
+    line-height: 1.6em; }
   section.info:not(:last-of-type) {
     margin-right: 1%; }
   section.info small {
@@ -380,7 +380,7 @@ pre {
 .my-rss-div {
   margin-bottom: 36px;
   border-left: 3px solid #bababa;
-  padding-bottom: 16px;
+  padding-bottom: 0px;
   padding-left: 12px;
 }
 
@@ -400,7 +400,7 @@ pre {
 
 .my-muted {
   font-size: 13px;
-  line-height: 2px;
+  line-height: 24px;
   color: #000;
 }
 @media (max-width: 580px) {
