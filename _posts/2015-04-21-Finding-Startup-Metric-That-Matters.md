@@ -125,9 +125,6 @@ Hinge is a company that's taken this position. Instead of swiping with anyone ne
 
 <b>So have a think! How are you creating value for your users? What can you measure that comes closest to that? And what are you doing to optimise that number?</b>
 
-<a style="display: block; color: white; border: none; background-color: #00ACEE; padding: 14px; color: white; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; margin-top:20px; text-align: center;" href="http://deeplink.me/twitter.com/gotaaalk" target="_blank">
-Follow my blog on Twitter <span class="mob-only"><br><small>opens @JoshSummersBlog in Twitter app</small></span></a>
-
 <div style="background-color: #888F88; padding: 14px; color: white; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; margin-top:20px;">
 
 I work at DN Capital as part of the Investment Team and I want to know about your business. You don't have to be raising funds today, it's always good to say hello.<br><br>

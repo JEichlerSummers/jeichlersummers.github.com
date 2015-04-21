@@ -407,6 +407,10 @@ pre {
   .mobile-twitter-div {
     display: none;
   }
+
+  .mob-no {
+    display: none;
+  }
 }
 
 .mobiletwitterbutton {
