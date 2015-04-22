@@ -73,7 +73,7 @@ If Tinder was able to predict who I would like with enough accuracy that I'd be 
 
 This can be tough! Big numbers sound great and tend to convince investors.
 
-<span style="color: #BBB7B7">Note: I believe in the same way investors moved away from total number of visits or total number of signups as a metric to value things by (1999), they will move away from MAUs and focus increasingly on measuring company dependant metrics.</span>
+<span style="color: #AAA4AA">Note: I believe in the same way investors moved away from total number of visits or total number of signups as a metric to value things by (1999), they will move away from MAUs and focus increasingly on measuring company dependant metrics.</span>
 
 ***
 
