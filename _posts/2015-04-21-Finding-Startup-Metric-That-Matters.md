@@ -9,7 +9,7 @@ This post is about picking the right metric for your company to focus on, what i
 
 <b>What is the metric that's important to your company?</b>
 
-It's not daily, weekly or monthly active users - I can tell you that. Those are a function of the metric we're looking for. And don't look too far for it; except for your direct competitors no other company will share it. 
+It's not daily, weekly or monthly active users - I can tell you that. Those are a function of the metric we're looking for. And don't look too far for it, except for your direct competitors no other company will share it. 
 
 A good place to start looking is in your user journey. If you run through it from top to bottom, at some point you'll come across a spot where the true value of your product is at its pinnacle. That point, or as close as you can get to it, will be metric that you need to focus on.
 <br><br><br>
@@ -85,11 +85,11 @@ Because of the vast number of ways it's used, it's hard to pin down the metric d
 
 Facebook has persistently pursued this metric despite short term negative reactions:
 
-* In August 2012 Facebook told investors that there were 87 million (8.5% of total) fake or duplicate accounts on the platform. This caused FB stock to slump below $20 (x% on the day).
+* In August 2012 Facebook told investors that there were 87 million (8.5% of total) fake or duplicate accounts on the platform. This caused FB stock to slump below $20 for the first time.
 
-* In October 2014 (check date) Facebook introduced their real names only policy. This led to the shutdown of accounts that looked suspicious - which happened to include the real accounts of many Drag Queens and Native Americans. Despite thousands signing a petition against the scheme, Facebook stuck with it (while introducing policies to deal with these specific cases).
+* In October 2014 Facebook introduced their real names only policy. This led to the shutdown of accounts that looked suspicious - which happened to include the real accounts of many Drag Queens and Native Americans. Despite thousands signing a petition against the scheme, Facebook stuck with it (while introducing policies to deal with these specific cases).
 
-* During this cull of users many brand pages saw their number of likes drop significantly (not the most enjoyable experience if you'd been paying Facebook to increase that number).
+* During this cull of users many brand pages saw their number of likes drop significantly (not the most enjoyable experience if you’d been paying for Facebook ads to increase that number).
 
 Imagine what weaker management would have done. How easy it would have been to change an internal policy to say that Facebook now let you have as many accounts as you wanted so that it didn't look bad to investors in 2012. Or to go back on its real name policy in 2014 to reduce the press and user backlash. But it didn't do either of these things because they knew what metric that mattered and had the strength to focus on it.
 
@@ -103,11 +103,11 @@ Optimising for this metric nearly always creates two opportunities for monetisat
 
 Let's look at Tinder again. Recently they've introduced a limit to the daily number of swipes. This has been designed to stop the tendency of some groups of users to swipe 'like' unconditionally. 'Fake likes' lead to lower quality matches, fewer established conversations between matches and a reduced user experience for all. This daily limit means that people treat their, now scarce, likes with more value and think before they swipe (improving match quality).
 
-It also opens the door to make money. If you want to be a badly behaved user you can be - but it costs. For $10 a month or so you can get your unlimited likes back. This is the dirty method. You improve the user experience for all and then let people pay if they want to continue polluting the platform.
+It also opens the door to make money. If you want to be a badly behaved user you can be - but it costs. For ~$10 a month you can get your unlimited likes back. This is the dirty method: you improve the user experience for all and then let people pay if they want to continue polluting the platform.
 
 Facebook could have done the same with it's user accounts. If you want to keep your fake profile you can - but it will be $5/month. 
 
-Taking it to the other extreme reveals the clean monetisation route. If you make the matching ability so powerful that anyone using the app can feel confident they're going to find someone special the willingness to pay for the experience (either with money or via extensive ads) will increase.
+Taking Tinder to the other extreme reveals the clean monetisation route. If the matching ability was so powerful that anyone using the app can feel confident they’re going to find someone special in a short period of time the willingness to pay for the experience (either with money or via extensive ads) would go through the roof.
 
 I think the choice to go dirty or not depends on the value that you see on the other side. Facebook probably believes that a platform where a billion+ people are having a great time has far greater value (from advertising) than a billion+ people having a good time plus 10 million people paying $5/month.
 
