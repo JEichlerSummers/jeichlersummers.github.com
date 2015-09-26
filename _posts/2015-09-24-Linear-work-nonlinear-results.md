@@ -5,7 +5,7 @@ blurb: How to think about trying when you're trudging along in a world of amazin
 ---
 <i>How to think about trying when you're trudging along in a world of amazing feats.</i>
 
-We are constantly bombarded by nonlinear success stories. The FacebookMillionsOfDownloadsAirbnb10,000FollowersExponeitalGrowthAcquiredFor$200mSnapchatUberZilla is stomping through our tech magazines / Twitter feeds / life every day.
+We are constantly bombarded by nonlinear success stories. The Facebook-MillionsOfDownloads-Airbnb-10,000Followers-ExponeitalGrowth-AcquiredFor$200m-Snapchat-Uber-Zilla is stomping through our tech magazines / Twitter feeds / life every day.
 
 Our poor brains! We can’t help it, but this becomes the baseline for success. This is what our brain holds ourselves accountable to.
 
