@@ -13,7 +13,7 @@ And in some ways this is correct - this is what top tier success looks like toda
 
 <h2><u>Work is all you have</u></h2>
 
-You can sit around eating pizza hoping that nonlinear success will ride into your bedroom, grab you by the waist, hoist you onto the rather pointy nosed horse and ride off into the sunset - but you know that probably won’t happen. So you work.
+You can sit around eating pizza hoping that nonlinear success will ride into your bedroom, grab you by the waist, hoist you onto the rather pointy-nosed horse and ride off into the sunset - but you know that probably won’t happen. So you work.
 
 But work is always linear - you cannot give more hours than there are in a day, you cannot exponentially speed up your learning, your content creation or your software development - but as we see every day, exponential success is possible (and don’t feel guilty if you want it - you’re probably just scared that you haven’t got it yet).
 
@@ -33,7 +33,7 @@ Wooden chairs are very different from the mediums we produce work in today. A va
 
 <h2><u>In scalable mediums, tweaks matter</u></h2>
 
-Anyone that is familiar with the concept of viral loops will understand the insane difference between your viral coefficient (the number of additional users that each new user invites to your software) being less-than or greater-than 1. 
+Anyone who is familiar with the concept of viral loops will understand the insane difference between your viral coefficient (the number of additional users that each new user invites to your software) being less-than or greater-than 1. 
 
 Virial coefficient = V in the chart below.
 
@@ -43,11 +43,11 @@ Virial coefficient = V in the chart below.
 
 If you do want nonlinear success (and again - don’t be ashamed if you do) you need to realise that it is continued linear work that gets you there. Repeatedly adjusting your offering, systematically testing out different acquisition channels or user flows, etc... are all linear processes that can eventually generate nonlinear results. Small tweaks (V from 0.9 to 1.1) in scalable mediums can signficantly change the trajectory of your business / project.
 
-Some entrepreneurs or individuals are fine with this, they know how to plug and plug away and not lose faith. For others, myself included, the sensitivity of one’s lack of success can be so large that when the nonlinear success does not arrive immediately - we shut up shop and stop working. This is a mistake.
+Some entrepreneurs or individuals are fine with this, they know how to plug and plug away and not lose faith. For others, myself included, the sensitivity of one’s lack of success can be so large that when the nonlinear success does not arrive immediately we shut up shop and stop working. This is a mistake.
 
 <h2><u>How do you track success when you’re not ‘successful’?</u></h2>
 
-When building in nonlinear mediums it is important to look for small signs of positive feedback. If you’re blog post is read by 100 people and 1 person joins your mailing list this is a sign of considerable success to come. Your mailing list may only have one person on it, but it looks like it is your distribution channel that is at fault - not the quality of your work. Time to apply persistent linear work to solving that part of the puzzle.
+When building in nonlinear mediums it is important to look for small signs of positive feedback. If you’re blog post is read by 100 people and one person joins your mailing list this is a sign of considerable success to come. Your mailing list may only have one person on it, but it looks like it is your distribution channel that is at fault - not the quality of your work. Time to apply persistent linear work to solving that part of the puzzle.
 
 So trudge on, produce work that can scale, systematically experiment and realise that small signs of success are actually very big.
 
